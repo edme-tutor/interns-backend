@@ -1,4 +1,44 @@
-# WebSocket Chat Test Task
+# WebSocket Chat 
+
+
+# Backend - Websockets
+
+Status: In Progress
+Date Asked: June 8, 2025
+Follow-up Required: No
+
+<aside>
+💡
+
+**Objective**
+
+Implement a lightweight backend that can handle thousands of WebSocket connections using limited hardware resources. 
+
+</aside>
+
+<aside>
+
+### **Problem Statement**
+
+1. Research and justify your choice of framework and language for implementing WebSockets. Explain how web frameworks optimize and handle concurrent connections. Select a framework capable of managing hundreds of thousands of open connections—either WebSocket or long-polling connections. Analyze the tradeoffs between these approaches. For a notifications API and a chat API what connections type will you choose. 
+2. Implement a live chat feature with your choice of framework with minimal html page. 
+</aside>
+
+<aside>
+
+### Deliverables
+
+1. Share your GitHub repository with the user `edme-tutor`, including your roll number and a detailed README file.
+2. Your previous project portfolio, if available. 
+</aside>
+
+<aside>
+
+### Submission Timeline
+
+June 11, Wednesday 11:59 PM.
+
+</aside>
 
 ## Overview
 This repository contains a reference implementation and test framework for a minimal WebSocket-based chat application. The goal of this task is to evaluate your ability to implement a real-time chat feature using WebSockets, and to validate its performance under load.
